@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/72d786da-ff29-44dc-8288-d9b36056e080
 # CG Launcher
 
 A lightweight, native macOS game launcher built with SwiftUI and AppKit. Inspired by the clean grid aesthetic of the Astris frontend, **CG Launcher** organizes your native Mac apps/games in a customizable, borderless grid with real-time 3D hover parallax, native Liquid Glass overlays, and automatic background playtime tracking.
