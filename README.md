@@ -12,7 +12,8 @@ A lightweight, native macOS game launcher built with SwiftUI and AppKit. Inspire
 
 | Library Grid | 3D Hover & Liquid Glass |
 | :---: | :---: |
-| ![Hover Animation](docs/screenshots/hover-effect.gif) |
+| <img width="771" height="659" alt="App_screen1" src="https://github.com/user-attachments/assets/8c1f3a5a-551b-4bdc-afad-8e7c0365e6a5" /> | 
+https://github.com/user-attachments/assets/93e99c88-12f9-4cbe-8e7f-574dfddb63fc |
 
 ---
 
