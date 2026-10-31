@@ -42,7 +42,7 @@ A lightweight, native macOS game launcher built with SwiftUI and AppKit. Inspire
 
 ## Usage
 
-Add a Game: Click the + button in the top-right toolbar and select any macOS .app bundle.
-Launch a Game: Double-click any game cover in the grid. Playtime is automatically calculated and saved when you quit the game.
-Resize Covers: Drag the floating slider in the bottom-right corner to scale the grid dynamically.
-Remove a Game: Right-click a game cover and select Remove from Library (this only removes the entry from CG Launcher; your .app bundle remains untouched on disk).
+- **Add a Game:** Click the + button in the top-right toolbar and select any macOS .app bundle.
+- **Launch a Game:** Double-click any game cover in the grid. Playtime is automatically calculated and saved when you quit the game.
+- **Resize Covers:** Drag the floating slider in the bottom-right corner to scale the grid dynamically.
+- **Remove a Game:** Right-click a game cover and select Remove from Library (this only removes the entry from CG Launcher; your .app bundle remains untouched on disk).
